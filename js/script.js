@@ -5,7 +5,7 @@
 'use strict'
 
 /**
- * This function calculates area of a triangle.
+ * This function calculates the celsius.
  */
 function calculate () {
   // input
